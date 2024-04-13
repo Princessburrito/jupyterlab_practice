@@ -1,0 +1,7 @@
+name: practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: C:\Users\JulieH\AppData\Local\miniconda3\envs\practice
